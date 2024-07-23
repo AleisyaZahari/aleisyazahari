@@ -30,7 +30,7 @@
         <ul>
             <li> 👨🏻‍💻 I'm currently working on my Personal Development</li>
             <li> 💬 Ask me about about anything related to Data Scientist and Machine Learning</li>
-            <li> 🎓 I'm currently learning Artificial Intelligence at FGA X Huawei batch 3</li>
+            <li> 🎓 I'm currently learning [Artificial Intelligence at FGA X Huawei batch 3](https://digitalent.kominfo.go.id/pelatihan/8499)</li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:aleisyazahari19@gmail.com" target="_blank">aleisyazahari19@gmail.com</a></li>
