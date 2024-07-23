@@ -2,7 +2,7 @@
     <h1>Hi, I am <a href="https://github.com/AleisyaZahari" target="_blank">Aleisya Zahari Salam</a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <img alt="Programmer Pic"
-        src="https://github.com/AleisyaZahari/testgit/blob/95697ffc9c11dccb4e7584b4dab2cc9cc5bff212/programmer-pic.png" width="450"/>
+        src="https://github.com/AleisyaZahari/testgit/blob/95697ffc9c11dccb4e7584b4dab2cc9cc5bff212/programmer-pic.png" width="350"/>
     <br/><br/>
     <p>👋Welcome to my Github profile!<br />
         I am an <b> Data Scientist</b> 🚀 from <b>Tangerang, Indonesia 🇮🇩</b>
