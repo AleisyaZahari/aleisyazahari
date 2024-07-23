@@ -15,9 +15,9 @@
         <a href="https://www.instagram.com/aleisya01">
           <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
         </a>
-        <!-- <a href="https://twitter.com/adityafakhrii">
-          <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-        </a> -->
+        <a href="https://drive.google.com/file/d/1w8xtizabW8lAOFv8n2Loi50lhG2w18j5/view?usp=sharing">
+          <img src="https://img.shields.io/badge/Resume-black?style=for-the-badge"/>
+        </a>
       </div>
   </div>
 </div>
