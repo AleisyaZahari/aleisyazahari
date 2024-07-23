@@ -2,7 +2,7 @@
     <h1>Hi, I am <a href="https://github.com/AleisyaZahari" target="_blank">Aleisya Zahari Salam</a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <img alt="Programmer Pic"
-        src="https://github.com/AleisyaZahari/aleisyazahari/resource/programmer-pic.png" width="450"/>
+        src="https://github.com/AleisyaZahari/testgit/blob/95697ffc9c11dccb4e7584b4dab2cc9cc5bff212/programmer-pic.png" width="450"/>
     <br/><br/>
     <p>👋Welcome to my Github profile!<br />
         I am an <b> Data Scientist</b> 🚀 from <b>Tangerang, Indonesia 🇮🇩</b>
@@ -42,8 +42,9 @@
         <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="45" height="40" /> </a>
         <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+        <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/66px-Jupyter_logo.svg.png" alt="jupyter" width="45" height="40" /> </a>
         <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="lookerstudio" width="40" height="40" /> </a>
-        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40" /> </a>
+        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="pandas" width="40" height="40" /> </a>
         <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy" width="40" height="40" /> </a>
         <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="tf" width="40" height="40" /> </a>
         <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" alt="bigquerry" width="40" height="40" /> </a>
