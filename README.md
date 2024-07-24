@@ -77,7 +77,10 @@
 </div>
 
 <hr />
-## Ale's Current Stats!
+<div>
+        <h2>🔥 Ale's Current Stats!
+        </h2>
+    </div> 
 
 <br>
 <br>
