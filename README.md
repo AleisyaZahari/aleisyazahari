@@ -5,7 +5,7 @@
         src="https://github.com/AleisyaZahari/testgit/blob/95697ffc9c11dccb4e7584b4dab2cc9cc5bff212/programmer-pic.png" width="350"/>
     <br/><br/>
     <p>👋Welcome to my Github profile!<br />
-        I am an <b> Data Scientist</b> 🚀 from <b>Tangerang, Indonesia 🇮🇩</b>
+        I am a <b> Data Enthusiast</b> 🚀 from <b>Tangerang, Indonesia 🇮🇩</b>
     </p>
     <div id="header" align="center">
       <div id="badges">
