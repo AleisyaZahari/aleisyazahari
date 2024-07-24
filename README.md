@@ -19,7 +19,7 @@
           <img src="https://img.shields.io/badge/Resume-black?style=for-the-badge"/>
         </a>
         <a href="https://www.hackerrank.com/profile/aleisyazahari19">
-          <img src="https://img.shields.io/badge/Hackerrank-Black?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/Hackerrank-Black?style=for-the-badge&logo=hackerrank&logoColor=white"/>
         </a>
       </div>
   </div>
