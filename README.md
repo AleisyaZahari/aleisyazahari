@@ -18,6 +18,9 @@
         <a href="https://drive.google.com/file/d/1w8xtizabW8lAOFv8n2Loi50lhG2w18j5/view?usp=sharing">
           <img src="https://img.shields.io/badge/Resume-black?style=for-the-badge"/>
         </a>
+        <a href="https://www.hackerrank.com/profile/aleisyazahari19">
+          <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png"/>
+        </a>
       </div>
   </div>
 </div>
