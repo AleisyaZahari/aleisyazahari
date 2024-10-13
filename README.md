@@ -15,7 +15,7 @@
         <a href="https://www.instagram.com/aleisya01">
           <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
         </a>
-        <a href="https://drive.google.com/file/d/1w8xtizabW8lAOFv8n2Loi50lhG2w18j5/view?usp=sharing">
+        <a href="https://drive.google.com/file/d/1za5uVupxN-W5NmdkS_y3ziFZj-SgbaSx/view?usp=sharing">
           <img src="https://img.shields.io/badge/Resume-black?style=for-the-badge"/>
         </a>
         <a href="https://www.hackerrank.com/profile/aleisyazahari19">
